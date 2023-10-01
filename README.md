@@ -1,7 +1,7 @@
-# osukeycounter
-This is a simple osu keycounter using Python 3.9.0
+# osukeycounter setup
+This is a simple Osu! keycounter using Python 3.9.0
 
-**How To Set Up**
+**How To Set Up, I don't know how to change the keys, I used ChatGPT**
 
 **1.** Go to the home page of the GitHub repository (https://github.com/hdhdhdforgot/osukeycounter)
 
@@ -14,6 +14,3 @@ This is a simple osu keycounter using Python 3.9.0
 **5.** Open the extracted file
 
 **6.** Run **main.py** file with python 3.9.0
-
-
-
