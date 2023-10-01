@@ -13,7 +13,7 @@ This is a simple osu keycounter using Python 3.9.0
 
 **5.** Open the extracted file
 
-**6.** Run **main.py** text with python 3.9.0
+**6.** Run **main.py** file with python 3.9.0
 
 
 
