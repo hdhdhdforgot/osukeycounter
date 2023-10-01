@@ -11,7 +11,9 @@ This is a simple osu keycounter using Python 3.9.0
 
 **4.** Right Click and find the ![image](https://github.com/hdhdhdforgot/osukeycounter/assets/111013575/1d7fb125-abaa-4ba6-b913-b9f167e080ec) button
 
-**5** Run it with python 3.9.0
+**5.** Open the extracted file
+
+**6.** Run **main.py** text with python 3.9.0
 
 
 
